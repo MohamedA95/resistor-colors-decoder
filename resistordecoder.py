@@ -1,6 +1,6 @@
 colures={'black':0,'brown':1,'red':2,'orange':3,'yellow':4,'green':5,'blue':6,'violet':7,'gray':8,'white':9,'gold':0.1,'silver':0.01}
 tolerance={'gold':5,'silver':10,'brown':1,'red':2,'green':0.5,'blue':0.25,'violet':0.1,'grey':0.05}
-x=' '
+
 while 1:
   x=raw_input("enter the colors names sprated by spaces \n enter -1 to stop the program \n")
   if x =='-1':
